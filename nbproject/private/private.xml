@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/controlador/Controlador.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>181</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/web/Empleado.jsp</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/src/java/modelo/ClienteDAO.java</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/src/java/modelo/VentaDAO.java</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/web/Cliente.jsp</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/src/java/modelo/Empleado.java</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/src/java/modelo/EmpleadoDAO.java</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/src/java/controlador/Controlador.java</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/web/RegistrarVenta.jsp</file>
+            <file>file:/C:/Users/david/Documents/NetBeansProjects/Web-20192578066/src/java/controlador/Validar.java</file>
+        </group>
+    </open-files>
+</project-private>
